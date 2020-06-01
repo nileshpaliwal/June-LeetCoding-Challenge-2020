@@ -12,8 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## April Challenge
-### June 1st  
+## June 1st  
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
