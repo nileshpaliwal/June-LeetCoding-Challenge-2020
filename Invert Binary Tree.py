@@ -1,5 +1,4 @@
 #Invert a binary tree.
-#
 #Example:
 #
 #Input:
