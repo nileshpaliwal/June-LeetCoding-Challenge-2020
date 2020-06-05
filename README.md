@@ -12,11 +12,12 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 4nd
+## June 1st - June 5nd
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
 | 2 |📗|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Delete%20Node%20in%20a%20Linked%20List.py)|
  | 3 |📗|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Two%20City%20Scheduling.py)|
  | 4 |📗|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Reverse%20String.py)|
+ | 5 |📙|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Random%20Pick%20with%20Weight.py)|
  
