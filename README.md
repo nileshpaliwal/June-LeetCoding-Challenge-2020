@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 6th
+## June 1st - June 7th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -21,4 +21,6 @@
  | 4 |📗|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Reverse%20String.py)|
  | 5 |📙|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Random%20Pick%20with%20Weight.py)|
  | 6 |📙|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Queue%20Reconstruction%20by%20Height.py)|
+ | 7 |📙|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Coin%20Change%202.py)|
+ 
  
