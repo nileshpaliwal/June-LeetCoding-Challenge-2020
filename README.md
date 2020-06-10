@@ -24,5 +24,6 @@
  | 7 |📙|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Coin%20Change%202.py)|
  | 8 |📗|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Power%20of%20Two.py)|
   | 8 |📗|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Is%20Subsequence.py)|
+   | 8 |📗|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Search%20Insert%20Position.py)|
  
  
