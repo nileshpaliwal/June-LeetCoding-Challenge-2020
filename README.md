@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 11th
+## June 1st - June 12th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -26,5 +26,6 @@
   | 9 |📗|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Is%20Subsequence.py)|
    | 10 |📗|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Search%20Insert%20Position.py)|
    | 11 |📙|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Sort%20Colors.py)|
+   | 12 |📙|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Insert%20Delete%20GetRandom%20O(1).py)|
  
  
