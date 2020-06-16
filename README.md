@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 15th
+## June 1st - June 16th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -30,3 +30,4 @@
    | 13 |📙|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Largest%20Divisible%20Subset.py)|
    | 14|📙|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Cheapest%20Flights%20Within%20K%20Stops.py)|
    | 15 |📗|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Search%20in%20a%20Binary%20Search%20Tree.py)|
+   | 16|📙|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Validate%20IP%20Address.py)|
