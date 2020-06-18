@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 17th
+## June 1st - June 18th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -32,3 +32,4 @@
    | 15 |📗|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Search%20in%20a%20Binary%20Search%20Tree.py)|
    | 16|📙|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Validate%20IP%20Address.py)|
    | 17|📙|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Surrounded%20Regions.py)|
+   | 18|📙|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/H-Index%20II.py)|
