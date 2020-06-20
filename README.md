@@ -34,4 +34,4 @@
    | 17|📙|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Surrounded%20Regions.py)|
    | 18|📙|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/H-Index%20II.py)|
    | 19|📕|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Longest%20Duplicate%20Substring.py)|
-   | 20|📕|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Permutation%20Sequence.py)|
+   | 20|📙|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Permutation%20Sequence.py)|
