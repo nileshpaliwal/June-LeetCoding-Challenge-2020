@@ -35,4 +35,5 @@
    | 18|📙|[H-Index II](https://leetcode.com/problems/h-index-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/H-Index%20II.py)|
    | 19|📕|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Longest%20Duplicate%20Substring.py)|
    | 20|📙|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Permutation%20Sequence.py)|
-   | 20|📕|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Dungeon%20Game.py)|
+   | 21|📕|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Dungeon%20Game.py)|
+   | 22|📗|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Single%20Number%20II.py)|
