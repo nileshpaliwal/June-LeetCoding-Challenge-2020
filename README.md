@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 24th
+## June 1st - June 25th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -39,3 +39,4 @@
    | 22|📗|[Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Single%20Number%20II.py)|
    | 23|📙|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Count%20Complete%20Tree%20Nodes.py)|
    | 24|📙|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Unique%20Binary%20Search%20Trees.py)|
+   | 25|📙|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Find%20the%20Duplicate%20Number.py)|
