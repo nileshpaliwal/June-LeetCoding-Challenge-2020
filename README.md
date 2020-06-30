@@ -12,7 +12,7 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st - June 26th
+## June 1st - June 30th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Invert%20Binary%20Tree.py)|
@@ -41,3 +41,10 @@
    | 24|📙|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Unique%20Binary%20Search%20Trees.py)|
    | 25|📙|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Find%20the%20Duplicate%20Number.py)|
    | 26|📙|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Sum%20Root%20to%20Leaf%20Numbers.py)|
+   | 27|📙|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Perfect%20Squares.py)|
+   | 28|📙|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Reconstruct%20Itinerary.py)|
+   | 29|📙|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Unique%20Paths.py)|
+   | 30|📕|[Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](https://github.com/nileshpaliwal/June-LeetCoding-Challenge-2020/blob/master/Word%20Search%20II.py)|
+  
+  
+  
